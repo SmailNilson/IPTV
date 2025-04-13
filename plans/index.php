@@ -18,33 +18,29 @@
                     <div class="elementor-widget-container">
                       <div class="e-n-tabs e-activated" data-widget-number="56581508" aria-label="Onglets. Ouvrir les éléments avec Entrée ou Espace, les fermer avec Échap et naviguer avec les touches fléchées." data-touch-mode="false">
                         <div class="e-n-tabs-heading" role="tablist" data-page-x="">
-                          <button id="e-n-tab-title-565815081" class="e-n-tab-title" aria-selected="false" data-tab-index="1" role="tab" tabindex="-1" aria-controls="e-n-tab-content-565815081" style="--n-tabs-title-order: 1;"><span class="e-n-tab-title-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1 appareil</font></font></span></button> <button id="e-n-tab-title-565815082" class="e-n-tab-title" aria-selected="true" data-tab-index="2" role="tab" tabindex="0" aria-controls="e-n-tab-content-565815082" style="--n-tabs-title-order: 2;"><span class="e-n-tab-title-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2 appareils</font></font></span></button> <button id="e-n-tab-title-565815083" class="e-n-tab-title" aria-selected="false" data-tab-index="3" role="tab" tabindex="-1" aria-controls="e-n-tab-content-565815083" style="--n-tabs-title-order: 3;"><span class="e-n-tab-title-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">3 appareils</font></font></span></button> <button id="e-n-tab-title-565815084" class="e-n-tab-title" aria-selected="false" data-tab-index="4" role="tab" tabindex="-1" aria-controls="e-n-tab-content-565815084" style="--n-tabs-title-order: 4;"><span class="e-n-tab-title-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">4 appareils</font></font></span></button> <button id="e-n-tab-title-565815085" class="e-n-tab-title" aria-selected="false" data-tab-index="5" role="tab" tabindex="-1" aria-controls="e-n-tab-content-565815085" style="--n-tabs-title-order: 5;"><span class="e-n-tab-title-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5 appareils</font></font></span></button>
+                          <button id="e-n-tab-title-565815081" class="e-n-tab-title" aria-selected="false" data-tab-index="1" role="tab" tabindex="-1" aria-controls="e-n-tab-content-565815081" style="--n-tabs-title-order: 1;"><span class="e-n-tab-title-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1 device</font></font></span></button> <button id="e-n-tab-title-565815082" class="e-n-tab-title" aria-selected="true" data-tab-index="2" role="tab" tabindex="0" aria-controls="e-n-tab-content-565815082" style="--n-tabs-title-order: 2;"><span class="e-n-tab-title-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2 devices</font></font></span></button> <button id="e-n-tab-title-565815083" class="e-n-tab-title" aria-selected="false" data-tab-index="3" role="tab" tabindex="-1" aria-controls="e-n-tab-content-565815083" style="--n-tabs-title-order: 3;"><span class="e-n-tab-title-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">3 devices</font></font></span></button> <button id="e-n-tab-title-565815084" class="e-n-tab-title" aria-selected="false" data-tab-index="4" role="tab" tabindex="-1" aria-controls="e-n-tab-content-565815084" style="--n-tabs-title-order: 4;"><span class="e-n-tab-title-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">4 devices</font></font></span></button> <button id="e-n-tab-title-565815085" class="e-n-tab-title" aria-selected="false" data-tab-index="5" role="tab" tabindex="-1" aria-controls="e-n-tab-content-565815085" style="--n-tabs-title-order: 5;"><span class="e-n-tab-title-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5 devices</font></font></span></button>
                         </div>
                         <div class="e-n-tabs-content">
                           <div id="e-n-tab-content-565815081" role="tabpanel" aria-labelledby="e-n-tab-title-565815081" data-tab-index="1" style="--n-tabs-title-order: 1;" class="elementor-element elementor-element-15ca015 e-con-full e-flex e-con e-child" data-id="15ca015" data-element_type="container">
                             <div class="elementor-element elementor-element-91d5e71 e-con-full e-flex e-con e-child" data-id="91d5e71" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
                               <div class="elementor-element elementor-element-da0ba75 e-con-full e-flex e-con e-child animated fadeInUp" data-id="da0ba75" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;fadeInUp&quot;,&quot;animation_delay&quot;:&quot;100&quot;}">
                                 <div class="elementor-element elementor-element-d035b13 elementor-widget elementor-widget-button" data-id="d035b13" data-element_type="widget" data-widget_type="button.default">
-                                  <div class="elementor-widget-container">
-                                    <div class="elementor-button-wrapper">
-                                      <a class="elementor-button elementor-button-link elementor-size-sm" href="#"><span class="elementor-button-content-wrapper"><span class="elementor-button-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Le plus populaire</font></font></span></span></a>
-                                    </div>
-                                  </div>
+                                
                                 </div>
                                 <div class="elementor-element elementor-element-9c61772 e-con-full e-flex e-con e-child" data-id="9c61772" data-element_type="container">
                                   <div class="elementor-element elementor-element-9018bbb elementor-widget elementor-widget-heading" data-id="9018bbb" data-element_type="widget" data-widget_type="heading.default">
                                     <div class="elementor-widget-container">
-                                      <p class="elementor-heading-title elementor-size-default"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1 mois</font></font></p>
+                                      <p class="elementor-heading-title elementor-size-default"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1 MONTH</font></font></p>
                                     </div>
                                   </div>
                                   <div class="elementor-element elementor-element-bf9d52e elementor-widget elementor-widget-heading" data-id="bf9d52e" data-element_type="widget" data-widget_type="heading.default">
                                     <div class="elementor-widget-container">
-                                      <p class="elementor-heading-title elementor-size-default"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">11,99 $</font></font></p>
+                                      <p class="elementor-heading-title elementor-size-default"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">08.99 $</font></font></p>
                                     </div>
                                   </div>
                                   <div class="elementor-element elementor-element-8fe0410 elementor-widget elementor-widget-heading" data-id="8fe0410" data-element_type="widget" data-widget_type="heading.default">
                                     <div class="elementor-widget-container">
-                                      <h2 class="elementor-heading-title elementor-size-default"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Tout ce que vous obtenez avec Premium, plus&nbsp;:</font></font><br>
+                                      <h2 class="elementor-heading-title elementor-size-default"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Everything You Get With Premium, Plus:&nbsp;:</font></font><br>
                                       <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">.</font></font></h2>
                                     </div>
                                   </div>
@@ -52,11 +48,11 @@
                                     <div class="elementor-widget-container">
                                       <ul class="elementor-icon-list-items">
                                         <li class="elementor-icon-list-item"><span class="elementor-icon-list-icon"><svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
-                                        <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">+ 20 000 chaînes de télévision en direct</font></font></span></li>
+                                        <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">+ 20K Live TV Channel</font></font></span></li>
                                         <li class="elementor-icon-list-item"><span class="elementor-icon-list-icon"><svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
-                                        <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">+ 120 000 films et séries</font></font></span></li>
+                                        <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">+ 120K Movies & Series</font></font></span></li>
                                         <li class="elementor-icon-list-item"><span class="elementor-icon-list-icon"><svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
-                                        <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Films et séries mis à jour</font></font></span></li>
+                                        <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Updated Movies & Series</font></font></span></li>
                                         <li class="elementor-icon-list-item"><span class="elementor-icon-list-icon"><svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
                                         <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">SD / HD / FULL HD / 4K</font></font></span></li>
                                         <li class="elementor-icon-list-item"><span class="elementor-icon-list-icon"><svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
@@ -70,7 +66,7 @@
                                     <div class="elementor-element elementor-element-3585044 elementor-align-justify elementor-widget elementor-widget-button" data-id="3585044" data-element_type="widget" data-widget_type="button.default">
                                       <div class="elementor-widget-container">
                                         <div class="elementor-button-wrapper">
-                                          <a class="elementor-button elementor-button-link elementor-size-sm" href="https://wa.link/1y718a" target="_blank" rel="noopener"><span class="elementor-button-content-wrapper"><span class="elementor-button-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Sélectionner</font></font></span></span></a>
+                                          <a class="elementor-button elementor-button-link elementor-size-sm" href="https://wa.link/1y718a" target="_blank" rel="noopener"><span class="elementor-button-content-wrapper"><span class="elementor-button-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Select</font></font></span></span></a>
                                         </div>
                                       </div>
                                     </div>
@@ -80,25 +76,22 @@
                               <div class="elementor-element elementor-element-758e3b5 e-con-full e-flex e-con e-child animated fadeInUp" data-id="758e3b5" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;fadeInUp&quot;,&quot;animation_delay&quot;:&quot;100&quot;}">
                                 <div class="elementor-element elementor-element-b0cf1da elementor-widget elementor-widget-button" data-id="b0cf1da" data-element_type="widget" data-widget_type="button.default">
                                   <div class="elementor-widget-container">
-                                    <div class="elementor-button-wrapper">
-                                      <a class="elementor-button elementor-button-link elementor-size-sm" href="#"><span class="elementor-button-content-wrapper"><span class="elementor-button-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Le plus populaire</font></font></span></span></a>
-                                    </div>
                                   </div>
                                 </div>
                                 <div class="elementor-element elementor-element-7ce67d7 e-con-full e-flex e-con e-child" data-id="7ce67d7" data-element_type="container">
                                   <div class="elementor-element elementor-element-9d5700a elementor-widget elementor-widget-heading" data-id="9d5700a" data-element_type="widget" data-widget_type="heading.default">
                                     <div class="elementor-widget-container">
-                                      <p class="elementor-heading-title elementor-size-default"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">3 mois</font></font></p>
+                                      <p class="elementor-heading-title elementor-size-default"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">3 MONTHS</font></font></p>
                                     </div>
                                   </div>
                                   <div class="elementor-element elementor-element-a65e9c2 elementor-widget elementor-widget-heading" data-id="a65e9c2" data-element_type="widget" data-widget_type="heading.default">
                                     <div class="elementor-widget-container">
-                                      <p class="elementor-heading-title elementor-size-default"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">29,99 $</font></font></p>
+                                      <p class="elementor-heading-title elementor-size-default"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">24.99 $</font></font></p>
                                     </div>
                                   </div>
                                   <div class="elementor-element elementor-element-0e4b19d elementor-widget elementor-widget-heading" data-id="0e4b19d" data-element_type="widget" data-widget_type="heading.default">
                                     <div class="elementor-widget-container">
-                                      <h2 class="elementor-heading-title elementor-size-default"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Tout ce que vous obtenez avec Premium, plus&nbsp;:</font></font><br>
+                                      <h2 class="elementor-heading-title elementor-size-default"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Everything You Get With Premium, Plus:&nbsp;:</font></font><br>
                                       <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">.</font></font></h2>
                                     </div>
                                   </div>
@@ -106,11 +99,11 @@
                                     <div class="elementor-widget-container">
                                       <ul class="elementor-icon-list-items">
                                         <li class="elementor-icon-list-item"><span class="elementor-icon-list-icon"><svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
-                                        <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">+ 20 000 chaînes de télévision en direct</font></font></span></li>
+                                        <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">+ 20K Live TV Channel</font></font></span></li>
                                         <li class="elementor-icon-list-item"><span class="elementor-icon-list-icon"><svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
-                                        <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">+ 120 000 films et séries</font></font></span></li>
+                                        <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">+ 120K Movies & Series</font></font></span></li>
                                         <li class="elementor-icon-list-item"><span class="elementor-icon-list-icon"><svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
-                                        <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Films et séries mis à jour</font></font></span></li>
+                                        <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Updated Movies & Series</font></font></span></li>
                                         <li class="elementor-icon-list-item"><span class="elementor-icon-list-icon"><svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
                                         <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">SD / HD / FULL HD / 4K</font></font></span></li>
                                         <li class="elementor-icon-list-item"><span class="elementor-icon-list-icon"><svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
@@ -124,7 +117,7 @@
                                     <div class="elementor-element elementor-element-e4fcb50 elementor-align-justify elementor-widget elementor-widget-button" data-id="e4fcb50" data-element_type="widget" data-widget_type="button.default">
                                       <div class="elementor-widget-container">
                                         <div class="elementor-button-wrapper">
-                                          <a class="elementor-button elementor-button-link elementor-size-sm" href="https://wa.link/yylh7h" target="_blank" rel="noopener"><span class="elementor-button-content-wrapper"><span class="elementor-button-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Sélectionner</font></font></span></span></a>
+                                          <a class="elementor-button elementor-button-link elementor-size-sm" href="https://wa.link/yylh7h" target="_blank" rel="noopener"><span class="elementor-button-content-wrapper"><span class="elementor-button-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Select</font></font></span></span></a>
                                         </div>
                                       </div>
                                     </div>
@@ -134,25 +127,22 @@
                               <div class="elementor-element elementor-element-68b607c e-con-full e-flex e-con e-child animated fadeInUp" data-id="68b607c" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;fadeInUp&quot;,&quot;animation_delay&quot;:&quot;100&quot;}">
                                 <div class="elementor-element elementor-element-dc31510 elementor-widget elementor-widget-button" data-id="dc31510" data-element_type="widget" data-widget_type="button.default">
                                   <div class="elementor-widget-container">
-                                    <div class="elementor-button-wrapper">
-                                      <a class="elementor-button elementor-button-link elementor-size-sm" href="#"><span class="elementor-button-content-wrapper"><span class="elementor-button-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Le plus populaire</font></font></span></span></a>
-                                    </div>
                                   </div>
                                 </div>
                                 <div class="elementor-element elementor-element-5f0be7d e-con-full e-flex e-con e-child" data-id="5f0be7d" data-element_type="container">
                                   <div class="elementor-element elementor-element-149b8b2 elementor-widget elementor-widget-heading" data-id="149b8b2" data-element_type="widget" data-widget_type="heading.default">
                                     <div class="elementor-widget-container">
-                                      <p class="elementor-heading-title elementor-size-default"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">6 mois</font></font></p>
+                                      <p class="elementor-heading-title elementor-size-default"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">6 MONTHS</font></font></p>
                                     </div>
                                   </div>
                                   <div class="elementor-element elementor-element-0c1bf4c elementor-widget elementor-widget-heading" data-id="0c1bf4c" data-element_type="widget" data-widget_type="heading.default">
                                     <div class="elementor-widget-container">
-                                      <p class="elementor-heading-title elementor-size-default"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">39,99 $</font></font></p>
+                                      <p class="elementor-heading-title elementor-size-default"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">39.99 $</font></font></p>
                                     </div>
                                   </div>
                                   <div class="elementor-element elementor-element-417da21 elementor-widget elementor-widget-heading" data-id="417da21" data-element_type="widget" data-widget_type="heading.default">
                                     <div class="elementor-widget-container">
-                                      <h2 class="elementor-heading-title elementor-size-default"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Tout ce que vous obtenez avec Premium, plus&nbsp;:</font></font><br>
+                                      <h2 class="elementor-heading-title elementor-size-default"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Everything You Get With Premium, Plus:&nbsp;:</font></font><br>
                                       <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">.</font></font></h2>
                                     </div>
                                   </div>
@@ -160,11 +150,11 @@
                                     <div class="elementor-widget-container">
                                       <ul class="elementor-icon-list-items">
                                         <li class="elementor-icon-list-item"><span class="elementor-icon-list-icon"><svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
-                                        <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">+ 20 000 chaînes de télévision en direct</font></font></span></li>
+                                        <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">+ 20K Live TV Channel</font></font></span></li>
                                         <li class="elementor-icon-list-item"><span class="elementor-icon-list-icon"><svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
-                                        <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">+ 120 000 films et séries</font></font></span></li>
+                                        <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">+ 120K Movies & Series</font></font></span></li>
                                         <li class="elementor-icon-list-item"><span class="elementor-icon-list-icon"><svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
-                                        <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Films et séries mis à jour</font></font></span></li>
+                                        <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Updated Movies & Series</font></font></span></li>
                                         <li class="elementor-icon-list-item"><span class="elementor-icon-list-icon"><svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
                                         <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">SD / HD / FULL HD / 4K</font></font></span></li>
                                         <li class="elementor-icon-list-item"><span class="elementor-icon-list-icon"><svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
@@ -178,7 +168,7 @@
                                     <div class="elementor-element elementor-element-6520519 elementor-align-justify elementor-widget elementor-widget-button" data-id="6520519" data-element_type="widget" data-widget_type="button.default">
                                       <div class="elementor-widget-container">
                                         <div class="elementor-button-wrapper">
-                                          <a class="elementor-button elementor-button-link elementor-size-sm" href="https://wa.link/lpnjva" target="_blank" rel="noopener"><span class="elementor-button-content-wrapper"><span class="elementor-button-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Sélectionner</font></font></span></span></a>
+                                          <a class="elementor-button elementor-button-link elementor-size-sm" href="https://wa.link/lpnjva" target="_blank" rel="noopener"><span class="elementor-button-content-wrapper"><span class="elementor-button-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Select</font></font></span></span></a>
                                         </div>
                                       </div>
                                     </div>
@@ -196,17 +186,17 @@
                                 <div class="elementor-element elementor-element-a25e1a3 e-con-full e-flex e-con e-child" data-id="a25e1a3" data-element_type="container">
                                   <div class="elementor-element elementor-element-b38ff1b elementor-widget elementor-widget-heading" data-id="b38ff1b" data-element_type="widget" data-widget_type="heading.default">
                                     <div class="elementor-widget-container">
-                                      <p class="elementor-heading-title elementor-size-default"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">12 mois</font></font></p>
+                                      <p class="elementor-heading-title elementor-size-default"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">12 MONTHS</font></font></p>
                                     </div>
                                   </div>
                                   <div class="elementor-element elementor-element-c98c3cc elementor-widget elementor-widget-heading" data-id="c98c3cc" data-element_type="widget" data-widget_type="heading.default">
                                     <div class="elementor-widget-container">
-                                      <p class="elementor-heading-title elementor-size-default"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">59,99 $</font></font></p>
+                                      <p class="elementor-heading-title elementor-size-default"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">49.99 $</font></font></p>
                                     </div>
                                   </div>
                                   <div class="elementor-element elementor-element-3e482a5 elementor-widget elementor-widget-heading" data-id="3e482a5" data-element_type="widget" data-widget_type="heading.default">
                                     <div class="elementor-widget-container">
-                                      <h2 class="elementor-heading-title elementor-size-default"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Tout ce que vous obtenez avec Premium, plus&nbsp;:</font></font><br>
+                                      <h2 class="elementor-heading-title elementor-size-default"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Everything You Get With Premium, Plus:&nbsp;:</font></font><br>
                                       <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">.</font></font></h2>
                                     </div>
                                   </div>
@@ -214,11 +204,11 @@
                                     <div class="elementor-widget-container">
                                       <ul class="elementor-icon-list-items">
                                         <li class="elementor-icon-list-item"><span class="elementor-icon-list-icon"><svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
-                                        <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">+ 20 000 chaînes de télévision en direct</font></font></span></li>
+                                        <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">+ 20K Live TV Channel</font></font></span></li>
                                         <li class="elementor-icon-list-item"><span class="elementor-icon-list-icon"><svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
-                                        <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">+ 120 000 films et séries</font></font></span></li>
+                                        <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">+ 120K Movies & Series</font></font></span></li>
                                         <li class="elementor-icon-list-item"><span class="elementor-icon-list-icon"><svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
-                                        <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Films et séries mis à jour</font></font></span></li>
+                                        <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Updated Movies & Series</font></font></span></li>
                                         <li class="elementor-icon-list-item"><span class="elementor-icon-list-icon"><svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
                                         <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">SD / HD / FULL HD / 4K</font></font></span></li>
                                         <li class="elementor-icon-list-item"><span class="elementor-icon-list-icon"><svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
@@ -232,7 +222,7 @@
                                     <div class="elementor-element elementor-element-eded46b elementor-align-justify elementor-widget elementor-widget-button" data-id="eded46b" data-element_type="widget" data-widget_type="button.default">
                                       <div class="elementor-widget-container">
                                         <div class="elementor-button-wrapper">
-                                          <a class="elementor-button elementor-button-link elementor-size-sm" href="https://wa.link/2b7d9h" target="_blank" rel="noopener"><span class="elementor-button-content-wrapper"><span class="elementor-button-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Sélectionner</font></font></span></span></a>
+                                          <a class="elementor-button elementor-button-link elementor-size-sm" href="https://wa.link/2b7d9h" target="_blank" rel="noopener"><span class="elementor-button-content-wrapper"><span class="elementor-button-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Select</font></font></span></span></a>
                                         </div>
                                       </div>
                                     </div>
@@ -246,25 +236,22 @@
                               <div class="elementor-element elementor-element-1e7d813 e-con-full e-flex e-con e-child animated fadeInUp" data-id="1e7d813" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;fadeInUp&quot;,&quot;animation_delay&quot;:&quot;100&quot;}">
                                 <div class="elementor-element elementor-element-0563dbd elementor-widget elementor-widget-button" data-id="0563dbd" data-element_type="widget" data-widget_type="button.default">
                                   <div class="elementor-widget-container">
-                                    <div class="elementor-button-wrapper">
-                                      <a class="elementor-button elementor-button-link elementor-size-sm" href="#"><span class="elementor-button-content-wrapper"><span class="elementor-button-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Le plus populaire</font></font></span></span></a>
-                                    </div>
                                   </div>
                                 </div>
                                 <div class="elementor-element elementor-element-d60c619 e-con-full e-flex e-con e-child" data-id="d60c619" data-element_type="container">
                                   <div class="elementor-element elementor-element-98a7169 elementor-widget elementor-widget-heading" data-id="98a7169" data-element_type="widget" data-widget_type="heading.default">
                                     <div class="elementor-widget-container">
-                                      <p class="elementor-heading-title elementor-size-default"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1 mois</font></font></p>
+                                      <p class="elementor-heading-title elementor-size-default"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1 MONTHS</font></font></p>
                                     </div>
                                   </div>
                                   <div class="elementor-element elementor-element-dfd590f elementor-widget elementor-widget-heading" data-id="dfd590f" data-element_type="widget" data-widget_type="heading.default">
                                     <div class="elementor-widget-container">
-                                      <p class="elementor-heading-title elementor-size-default"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">25 $</font></font></p>
+                                      <p class="elementor-heading-title elementor-size-default"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">16.99 $</font></font></p>
                                     </div>
                                   </div>
                                   <div class="elementor-element elementor-element-0b871e8 elementor-widget elementor-widget-heading" data-id="0b871e8" data-element_type="widget" data-widget_type="heading.default">
                                     <div class="elementor-widget-container">
-                                      <h2 class="elementor-heading-title elementor-size-default"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Tout ce que vous obtenez avec Premium, plus&nbsp;:</font></font><br>
+                                      <h2 class="elementor-heading-title elementor-size-default"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Everything You Get With Premium, Plus:&nbsp;:</font></font><br>
                                       <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">.</font></font></h2>
                                     </div>
                                   </div>
@@ -272,11 +259,11 @@
                                     <div class="elementor-widget-container">
                                       <ul class="elementor-icon-list-items">
                                         <li class="elementor-icon-list-item"><span class="elementor-icon-list-icon"><svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
-                                        <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">+ 20 000 chaînes de télévision en direct</font></font></span></li>
+                                        <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">+ 20K Live TV Channel</font></font></span></li>
                                         <li class="elementor-icon-list-item"><span class="elementor-icon-list-icon"><svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
-                                        <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">+ 120 000 films et séries</font></font></span></li>
+                                        <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">+ 120K Movies & Series</font></font></span></li>
                                         <li class="elementor-icon-list-item"><span class="elementor-icon-list-icon"><svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
-                                        <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Films et séries mis à jour</font></font></span></li>
+                                        <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Updated Movies & Series</font></font></span></li>
                                         <li class="elementor-icon-list-item"><span class="elementor-icon-list-icon"><svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
                                         <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">SD / HD / FULL HD / 4K</font></font></span></li>
                                         <li class="elementor-icon-list-item"><span class="elementor-icon-list-icon"><svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
@@ -290,7 +277,7 @@
                                     <div class="elementor-element elementor-element-0b2e64d elementor-align-justify elementor-widget elementor-widget-button" data-id="0b2e64d" data-element_type="widget" data-widget_type="button.default">
                                       <div class="elementor-widget-container">
                                         <div class="elementor-button-wrapper">
-                                          <a class="elementor-button elementor-button-link elementor-size-sm" href="https://wa.link/mihbfl" target="_blank" rel="noopener"><span class="elementor-button-content-wrapper"><span class="elementor-button-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Sélectionner</font></font></span></span></a>
+                                          <a class="elementor-button elementor-button-link elementor-size-sm" href="https://wa.link/mihbfl" target="_blank" rel="noopener"><span class="elementor-button-content-wrapper"><span class="elementor-button-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Select</font></font></span></span></a>
                                         </div>
                                       </div>
                                     </div>
@@ -301,24 +288,23 @@
                                 <div class="elementor-element elementor-element-2016077 elementor-widget elementor-widget-button" data-id="2016077" data-element_type="widget" data-widget_type="button.default">
                                   <div class="elementor-widget-container">
                                     <div class="elementor-button-wrapper">
-                                      <a class="elementor-button elementor-button-link elementor-size-sm" href="#"><span class="elementor-button-content-wrapper"><span class="elementor-button-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Le plus populaire</font></font></span></span></a>
                                     </div>
                                   </div>
                                 </div>
                                 <div class="elementor-element elementor-element-c7c32ee e-con-full e-flex e-con e-child" data-id="c7c32ee" data-element_type="container">
                                   <div class="elementor-element elementor-element-b94bb0b elementor-widget elementor-widget-heading" data-id="b94bb0b" data-element_type="widget" data-widget_type="heading.default">
                                     <div class="elementor-widget-container">
-                                      <p class="elementor-heading-title elementor-size-default"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">3 mois</font></font></p>
+                                      <p class="elementor-heading-title elementor-size-default"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">3 MONTHS</font></font></p>
                                     </div>
                                   </div>
                                   <div class="elementor-element elementor-element-f19eab1 elementor-widget elementor-widget-heading" data-id="f19eab1" data-element_type="widget" data-widget_type="heading.default">
                                     <div class="elementor-widget-container">
-                                      <p class="elementor-heading-title elementor-size-default"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">49 $</font></font></p>
+                                      <p class="elementor-heading-title elementor-size-default"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">39.99 $</font></font></p>
                                     </div>
                                   </div>
                                   <div class="elementor-element elementor-element-3e28fc8 elementor-widget elementor-widget-heading" data-id="3e28fc8" data-element_type="widget" data-widget_type="heading.default">
                                     <div class="elementor-widget-container">
-                                      <h2 class="elementor-heading-title elementor-size-default"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Tout ce que vous obtenez avec Premium, plus&nbsp;:</font></font><br>
+                                      <h2 class="elementor-heading-title elementor-size-default"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Everything You Get With Premium, Plus:&nbsp;:</font></font><br>
                                       <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">.</font></font></h2>
                                     </div>
                                   </div>
@@ -326,11 +312,11 @@
                                     <div class="elementor-widget-container">
                                       <ul class="elementor-icon-list-items">
                                         <li class="elementor-icon-list-item"><span class="elementor-icon-list-icon"><svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
-                                        <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">+ 20 000 chaînes de télévision en direct</font></font></span></li>
+                                        <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">+ 20K Live TV Channel</font></font></span></li>
                                         <li class="elementor-icon-list-item"><span class="elementor-icon-list-icon"><svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
-                                        <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">+ 120 000 films et séries</font></font></span></li>
+                                        <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">+ 120K Movies & Series</font></font></span></li>
                                         <li class="elementor-icon-list-item"><span class="elementor-icon-list-icon"><svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
-                                        <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Films et séries mis à jour</font></font></span></li>
+                                        <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Updated Movies & Series</font></font></span></li>
                                         <li class="elementor-icon-list-item"><span class="elementor-icon-list-icon"><svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
                                         <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">SD / HD / FULL HD / 4K</font></font></span></li>
                                         <li class="elementor-icon-list-item"><span class="elementor-icon-list-icon"><svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
@@ -344,7 +330,7 @@
                                     <div class="elementor-element elementor-element-8483373 elementor-align-justify elementor-widget elementor-widget-button" data-id="8483373" data-element_type="widget" data-widget_type="button.default">
                                       <div class="elementor-widget-container">
                                         <div class="elementor-button-wrapper">
-                                          <a class="elementor-button elementor-button-link elementor-size-sm" href="https://wa.link/opqagr" target="_blank" rel="noopener"><span class="elementor-button-content-wrapper"><span class="elementor-button-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Sélectionner</font></font></span></span></a>
+                                          <a class="elementor-button elementor-button-link elementor-size-sm" href="https://wa.link/opqagr" target="_blank" rel="noopener"><span class="elementor-button-content-wrapper"><span class="elementor-button-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Select</font></font></span></span></a>
                                         </div>
                                       </div>
                                     </div>
@@ -355,24 +341,23 @@
                                 <div class="elementor-element elementor-element-d59c7fd elementor-widget elementor-widget-button" data-id="d59c7fd" data-element_type="widget" data-widget_type="button.default">
                                   <div class="elementor-widget-container">
                                     <div class="elementor-button-wrapper">
-                                      <a class="elementor-button elementor-button-link elementor-size-sm" href="#"><span class="elementor-button-content-wrapper"><span class="elementor-button-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Le plus populaire</font></font></span></span></a>
                                     </div>
                                   </div>
                                 </div>
                                 <div class="elementor-element elementor-element-dfc58d6 e-con-full e-flex e-con e-child" data-id="dfc58d6" data-element_type="container">
                                   <div class="elementor-element elementor-element-dcdebfa elementor-widget elementor-widget-heading" data-id="dcdebfa" data-element_type="widget" data-widget_type="heading.default">
                                     <div class="elementor-widget-container">
-                                      <p class="elementor-heading-title elementor-size-default"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">6 mois</font></font></p>
+                                      <p class="elementor-heading-title elementor-size-default"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">6 MONTHS</font></font></p>
                                     </div>
                                   </div>
                                   <div class="elementor-element elementor-element-c39fa2e elementor-widget elementor-widget-heading" data-id="c39fa2e" data-element_type="widget" data-widget_type="heading.default">
                                     <div class="elementor-widget-container">
-                                      <p class="elementor-heading-title elementor-size-default"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">69 $</font></font></p>
+                                      <p class="elementor-heading-title elementor-size-default"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">59.99 $</font></font></p>
                                     </div>
                                   </div>
                                   <div class="elementor-element elementor-element-42a6c48 elementor-widget elementor-widget-heading" data-id="42a6c48" data-element_type="widget" data-widget_type="heading.default">
                                     <div class="elementor-widget-container">
-                                      <h2 class="elementor-heading-title elementor-size-default"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Tout ce que vous obtenez avec Premium, plus&nbsp;:</font></font><br>
+                                      <h2 class="elementor-heading-title elementor-size-default"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Everything You Get With Premium, Plus:&nbsp;:</font></font><br>
                                       <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">.</font></font></h2>
                                     </div>
                                   </div>
@@ -380,11 +365,11 @@
                                     <div class="elementor-widget-container">
                                       <ul class="elementor-icon-list-items">
                                         <li class="elementor-icon-list-item"><span class="elementor-icon-list-icon"><svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
-                                        <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">+ 20 000 chaînes de télévision en direct</font></font></span></li>
+                                        <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">+ 20K Live TV Channel</font></font></span></li>
                                         <li class="elementor-icon-list-item"><span class="elementor-icon-list-icon"><svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
-                                        <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">+ 120 000 films et séries</font></font></span></li>
+                                        <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">+ 120K Movies & Series</font></font></span></li>
                                         <li class="elementor-icon-list-item"><span class="elementor-icon-list-icon"><svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
-                                        <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Films et séries mis à jour</font></font></span></li>
+                                        <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Updated Movies & Series</font></font></span></li>
                                         <li class="elementor-icon-list-item"><span class="elementor-icon-list-icon"><svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
                                         <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">SD / HD / FULL HD / 4K</font></font></span></li>
                                         <li class="elementor-icon-list-item"><span class="elementor-icon-list-icon"><svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
@@ -398,7 +383,7 @@
                                     <div class="elementor-element elementor-element-679d2a3 elementor-align-justify elementor-widget elementor-widget-button" data-id="679d2a3" data-element_type="widget" data-widget_type="button.default">
                                       <div class="elementor-widget-container">
                                         <div class="elementor-button-wrapper">
-                                          <a class="elementor-button elementor-button-link elementor-size-sm" href="https://wa.link/203yrd" target="_blank" rel="noopener"><span class="elementor-button-content-wrapper"><span class="elementor-button-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Sélectionner</font></font></span></span></a>
+                                          <a class="elementor-button elementor-button-link elementor-size-sm" href="https://wa.link/203yrd" target="_blank" rel="noopener"><span class="elementor-button-content-wrapper"><span class="elementor-button-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Select</font></font></span></span></a>
                                         </div>
                                       </div>
                                     </div>
@@ -416,17 +401,17 @@
                                 <div class="elementor-element elementor-element-d5299d6 e-con-full e-flex e-con e-child" data-id="d5299d6" data-element_type="container">
                                   <div class="elementor-element elementor-element-5314dfb elementor-widget elementor-widget-heading" data-id="5314dfb" data-element_type="widget" data-widget_type="heading.default">
                                     <div class="elementor-widget-container">
-                                      <p class="elementor-heading-title elementor-size-default"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">12 mois</font></font></p>
+                                      <p class="elementor-heading-title elementor-size-default"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">12 MONTHS</font></font></p>
                                     </div>
                                   </div>
                                   <div class="elementor-element elementor-element-8bf45ca elementor-widget elementor-widget-heading" data-id="8bf45ca" data-element_type="widget" data-widget_type="heading.default">
                                     <div class="elementor-widget-container">
-                                      <p class="elementor-heading-title elementor-size-default"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">99 $</font></font></p>
+                                      <p class="elementor-heading-title elementor-size-default"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">89.99 $</font></font></p>
                                     </div>
                                   </div>
                                   <div class="elementor-element elementor-element-c817869 elementor-widget elementor-widget-heading" data-id="c817869" data-element_type="widget" data-widget_type="heading.default">
                                     <div class="elementor-widget-container">
-                                      <h2 class="elementor-heading-title elementor-size-default"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Tout ce que vous obtenez avec Premium, plus&nbsp;:</font></font><br>
+                                      <h2 class="elementor-heading-title elementor-size-default"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Everything You Get With Premium, Plus:&nbsp;:</font></font><br>
                                       <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">.</font></font></h2>
                                     </div>
                                   </div>
@@ -434,11 +419,11 @@
                                     <div class="elementor-widget-container">
                                       <ul class="elementor-icon-list-items">
                                         <li class="elementor-icon-list-item"><span class="elementor-icon-list-icon"><svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
-                                        <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">+ 20 000 chaînes de télévision en direct</font></font></span></li>
+                                        <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">+ 20K Live TV Channel</font></font></span></li>
                                         <li class="elementor-icon-list-item"><span class="elementor-icon-list-icon"><svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
-                                        <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">+ 120 000 films et séries</font></font></span></li>
+                                        <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">+ 120K Movies & Series</font></font></span></li>
                                         <li class="elementor-icon-list-item"><span class="elementor-icon-list-icon"><svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
-                                        <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Films et séries mis à jour</font></font></span></li>
+                                        <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Updated Movies & Series</font></font></span></li>
                                         <li class="elementor-icon-list-item"><span class="elementor-icon-list-icon"><svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
                                         <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">SD / HD / FULL HD / 4K</font></font></span></li>
                                         <li class="elementor-icon-list-item"><span class="elementor-icon-list-icon"><svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
@@ -452,7 +437,7 @@
                                     <div class="elementor-element elementor-element-9c273a7 elementor-align-justify elementor-widget elementor-widget-button" data-id="9c273a7" data-element_type="widget" data-widget_type="button.default">
                                       <div class="elementor-widget-container">
                                         <div class="elementor-button-wrapper">
-                                          <a class="elementor-button elementor-button-link elementor-size-sm" href="https://wa.link/sl2ywi" target="_blank" rel="noopener"><span class="elementor-button-content-wrapper"><span class="elementor-button-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Sélectionner</font></font></span></span></a>
+                                          <a class="elementor-button elementor-button-link elementor-size-sm" href="https://wa.link/sl2ywi" target="_blank" rel="noopener"><span class="elementor-button-content-wrapper"><span class="elementor-button-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Select</font></font></span></span></a>
                                         </div>
                                       </div>
                                     </div>
@@ -467,24 +452,23 @@
                                 <div class="elementor-element elementor-element-e3d38e1 elementor-widget elementor-widget-button" data-id="e3d38e1" data-element_type="widget" data-widget_type="button.default">
                                   <div class="elementor-widget-container">
                                     <div class="elementor-button-wrapper">
-                                      <a class="elementor-button elementor-button-link elementor-size-sm" href="#"><span class="elementor-button-content-wrapper"><span class="elementor-button-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Le plus populaire</font></font></span></span></a>
                                     </div>
                                   </div>
                                 </div>
                                 <div class="elementor-element elementor-element-f1e3545 e-con-full e-flex e-con e-child" data-id="f1e3545" data-element_type="container">
                                   <div class="elementor-element elementor-element-ba56195 elementor-widget elementor-widget-heading" data-id="ba56195" data-element_type="widget" data-widget_type="heading.default">
                                     <div class="elementor-widget-container">
-                                      <p class="elementor-heading-title elementor-size-default"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1 mois</font></font></p>
+                                      <p class="elementor-heading-title elementor-size-default"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1 MONTHS</font></font></p>
                                     </div>
                                   </div>
                                   <div class="elementor-element elementor-element-b23987c elementor-widget elementor-widget-heading" data-id="b23987c" data-element_type="widget" data-widget_type="heading.default">
                                     <div class="elementor-widget-container">
-                                      <p class="elementor-heading-title elementor-size-default"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">35 $</font></font></p>
+                                      <p class="elementor-heading-title elementor-size-default"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">24.99 $</font></font></p>
                                     </div>
                                   </div>
                                   <div class="elementor-element elementor-element-4b609e0 elementor-widget elementor-widget-heading" data-id="4b609e0" data-element_type="widget" data-widget_type="heading.default">
                                     <div class="elementor-widget-container">
-                                      <h2 class="elementor-heading-title elementor-size-default"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Tout ce que vous obtenez avec Premium, plus&nbsp;:</font></font><br>
+                                      <h2 class="elementor-heading-title elementor-size-default"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Everything You Get With Premium, Plus:&nbsp;:</font></font><br>
                                       <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">.</font></font></h2>
                                     </div>
                                   </div>
@@ -492,11 +476,11 @@
                                     <div class="elementor-widget-container">
                                       <ul class="elementor-icon-list-items">
                                         <li class="elementor-icon-list-item"><span class="elementor-icon-list-icon"><svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
-                                        <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">+ 20 000 chaînes de télévision en direct</font></font></span></li>
+                                        <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">+ 20K Live TV Channel</font></font></span></li>
                                         <li class="elementor-icon-list-item"><span class="elementor-icon-list-icon"><svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
-                                        <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">+ 120 000 films et séries</font></font></span></li>
+                                        <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">+ 120K Movies & Series</font></font></span></li>
                                         <li class="elementor-icon-list-item"><span class="elementor-icon-list-icon"><svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
-                                        <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Films et séries mis à jour</font></font></span></li>
+                                        <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Updated Movies & Series</font></font></span></li>
                                         <li class="elementor-icon-list-item"><span class="elementor-icon-list-icon"><svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
                                         <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">SD / HD / FULL HD / 4K</font></font></span></li>
                                         <li class="elementor-icon-list-item"><span class="elementor-icon-list-icon"><svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
@@ -510,7 +494,7 @@
                                     <div class="elementor-element elementor-element-2aea811 elementor-align-justify elementor-widget elementor-widget-button" data-id="2aea811" data-element_type="widget" data-widget_type="button.default">
                                       <div class="elementor-widget-container">
                                         <div class="elementor-button-wrapper">
-                                          <a class="elementor-button elementor-button-link elementor-size-sm" href="#"><span class="elementor-button-content-wrapper"><span class="elementor-button-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Sélectionner</font></font></span></span></a>
+                                          <a class="elementor-button elementor-button-link elementor-size-sm" href="#"><span class="elementor-button-content-wrapper"><span class="elementor-button-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Select</font></font></span></span></a>
                                         </div>
                                       </div>
                                     </div>
@@ -521,24 +505,23 @@
                                 <div class="elementor-element elementor-element-23e8986 elementor-widget elementor-widget-button" data-id="23e8986" data-element_type="widget" data-widget_type="button.default">
                                   <div class="elementor-widget-container">
                                     <div class="elementor-button-wrapper">
-                                      <a class="elementor-button elementor-button-link elementor-size-sm" href="#"><span class="elementor-button-content-wrapper"><span class="elementor-button-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Le plus populaire</font></font></span></span></a>
                                     </div>
                                   </div>
                                 </div>
                                 <div class="elementor-element elementor-element-bd9c794 e-con-full e-flex e-con e-child" data-id="bd9c794" data-element_type="container">
                                   <div class="elementor-element elementor-element-d5b62c0 elementor-widget elementor-widget-heading" data-id="d5b62c0" data-element_type="widget" data-widget_type="heading.default">
                                     <div class="elementor-widget-container">
-                                      <p class="elementor-heading-title elementor-size-default"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">3 mois</font></font></p>
+                                      <p class="elementor-heading-title elementor-size-default"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">3 MONTHS</font></font></p>
                                     </div>
                                   </div>
                                   <div class="elementor-element elementor-element-53f15e8 elementor-widget elementor-widget-heading" data-id="53f15e8" data-element_type="widget" data-widget_type="heading.default">
                                     <div class="elementor-widget-container">
-                                      <p class="elementor-heading-title elementor-size-default"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">59 $</font></font></p>
+                                      <p class="elementor-heading-title elementor-size-default"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">45.99 $</font></font></p>
                                     </div>
                                   </div>
                                   <div class="elementor-element elementor-element-24f1e4d elementor-widget elementor-widget-heading" data-id="24f1e4d" data-element_type="widget" data-widget_type="heading.default">
                                     <div class="elementor-widget-container">
-                                      <h2 class="elementor-heading-title elementor-size-default"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Tout ce que vous obtenez avec Premium, plus&nbsp;:</font></font><br>
+                                      <h2 class="elementor-heading-title elementor-size-default"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Everything You Get With Premium, Plus:&nbsp;:</font></font><br>
                                       <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">.</font></font></h2>
                                     </div>
                                   </div>
@@ -546,11 +529,11 @@
                                     <div class="elementor-widget-container">
                                       <ul class="elementor-icon-list-items">
                                         <li class="elementor-icon-list-item"><span class="elementor-icon-list-icon"><svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
-                                        <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">+ 20 000 chaînes de télévision en direct</font></font></span></li>
+                                        <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">+ 20K Live TV Channel</font></font></span></li>
                                         <li class="elementor-icon-list-item"><span class="elementor-icon-list-icon"><svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
-                                        <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">+ 120 000 films et séries</font></font></span></li>
+                                        <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">+ 120K Movies & Series</font></font></span></li>
                                         <li class="elementor-icon-list-item"><span class="elementor-icon-list-icon"><svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
-                                        <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Films et séries mis à jour</font></font></span></li>
+                                        <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Updated Movies & Series</font></font></span></li>
                                         <li class="elementor-icon-list-item"><span class="elementor-icon-list-icon"><svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
                                         <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">SD / HD / FULL HD / 4K</font></font></span></li>
                                         <li class="elementor-icon-list-item"><span class="elementor-icon-list-icon"><svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
@@ -564,7 +547,7 @@
                                     <div class="elementor-element elementor-element-a563f67 elementor-align-justify elementor-widget elementor-widget-button" data-id="a563f67" data-element_type="widget" data-widget_type="button.default">
                                       <div class="elementor-widget-container">
                                         <div class="elementor-button-wrapper">
-                                          <a class="elementor-button elementor-button-link elementor-size-sm" href="https://wa.link/m7t3y7" target="_blank" rel="noopener"><span class="elementor-button-content-wrapper"><span class="elementor-button-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Sélectionner</font></font></span></span></a>
+                                          <a class="elementor-button elementor-button-link elementor-size-sm" href="https://wa.link/m7t3y7" target="_blank" rel="noopener"><span class="elementor-button-content-wrapper"><span class="elementor-button-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Select</font></font></span></span></a>
                                         </div>
                                       </div>
                                     </div>
@@ -575,24 +558,23 @@
                                 <div class="elementor-element elementor-element-4564225 elementor-widget elementor-widget-button" data-id="4564225" data-element_type="widget" data-widget_type="button.default">
                                   <div class="elementor-widget-container">
                                     <div class="elementor-button-wrapper">
-                                      <a class="elementor-button elementor-button-link elementor-size-sm" href="#"><span class="elementor-button-content-wrapper"><span class="elementor-button-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Le plus populaire</font></font></span></span></a>
                                     </div>
                                   </div>
                                 </div>
                                 <div class="elementor-element elementor-element-30ad4f7 e-con-full e-flex e-con e-child" data-id="30ad4f7" data-element_type="container">
                                   <div class="elementor-element elementor-element-915d87c elementor-widget elementor-widget-heading" data-id="915d87c" data-element_type="widget" data-widget_type="heading.default">
                                     <div class="elementor-widget-container">
-                                      <p class="elementor-heading-title elementor-size-default"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">6 mois</font></font></p>
+                                      <p class="elementor-heading-title elementor-size-default"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">6 MONTHS</font></font></p>
                                     </div>
                                   </div>
                                   <div class="elementor-element elementor-element-71e2e24 elementor-widget elementor-widget-heading" data-id="71e2e24" data-element_type="widget" data-widget_type="heading.default">
                                     <div class="elementor-widget-container">
-                                      <p class="elementor-heading-title elementor-size-default"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">89 $</font></font></p>
+                                      <p class="elementor-heading-title elementor-size-default"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">79.99 $</font></font></p>
                                     </div>
                                   </div>
                                   <div class="elementor-element elementor-element-6cc7699 elementor-widget elementor-widget-heading" data-id="6cc7699" data-element_type="widget" data-widget_type="heading.default">
                                     <div class="elementor-widget-container">
-                                      <h2 class="elementor-heading-title elementor-size-default"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Tout ce que vous obtenez avec Premium, plus&nbsp;:</font></font><br>
+                                      <h2 class="elementor-heading-title elementor-size-default"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Everything You Get With Premium, Plus:&nbsp;:</font></font><br>
                                       <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">.</font></font></h2>
                                     </div>
                                   </div>
@@ -600,11 +582,11 @@
                                     <div class="elementor-widget-container">
                                       <ul class="elementor-icon-list-items">
                                         <li class="elementor-icon-list-item"><span class="elementor-icon-list-icon"><svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
-                                        <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">+ 20 000 chaînes de télévision en direct</font></font></span></li>
+                                        <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">+ 20K Live TV Channel</font></font></span></li>
                                         <li class="elementor-icon-list-item"><span class="elementor-icon-list-icon"><svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
-                                        <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">+ 120 000 films et séries</font></font></span></li>
+                                        <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">+ 120K Movies & Series</font></font></span></li>
                                         <li class="elementor-icon-list-item"><span class="elementor-icon-list-icon"><svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
-                                        <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Films et séries mis à jour</font></font></span></li>
+                                        <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Updated Movies & Series</font></font></span></li>
                                         <li class="elementor-icon-list-item"><span class="elementor-icon-list-icon"><svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
                                         <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">SD / HD / FULL HD / 4K</font></font></span></li>
                                         <li class="elementor-icon-list-item"><span class="elementor-icon-list-icon"><svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
@@ -618,7 +600,7 @@
                                     <div class="elementor-element elementor-element-a4f22ca elementor-align-justify elementor-widget elementor-widget-button" data-id="a4f22ca" data-element_type="widget" data-widget_type="button.default">
                                       <div class="elementor-widget-container">
                                         <div class="elementor-button-wrapper">
-                                          <a class="elementor-button elementor-button-link elementor-size-sm" href="https://wa.link/ujhl6v" target="_blank" rel="noopener"><span class="elementor-button-content-wrapper"><span class="elementor-button-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Sélectionner</font></font></span></span></a>
+                                          <a class="elementor-button elementor-button-link elementor-size-sm" href="https://wa.link/ujhl6v" target="_blank" rel="noopener"><span class="elementor-button-content-wrapper"><span class="elementor-button-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Select</font></font></span></span></a>
                                         </div>
                                       </div>
                                     </div>
@@ -636,17 +618,17 @@
                                 <div class="elementor-element elementor-element-3cf12f6 e-con-full e-flex e-con e-child" data-id="3cf12f6" data-element_type="container">
                                   <div class="elementor-element elementor-element-5b6b403 elementor-widget elementor-widget-heading" data-id="5b6b403" data-element_type="widget" data-widget_type="heading.default">
                                     <div class="elementor-widget-container">
-                                      <p class="elementor-heading-title elementor-size-default"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">12 mois</font></font></p>
+                                      <p class="elementor-heading-title elementor-size-default"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">12 MONTHS</font></font></p>
                                     </div>
                                   </div>
                                   <div class="elementor-element elementor-element-4a237df elementor-widget elementor-widget-heading" data-id="4a237df" data-element_type="widget" data-widget_type="heading.default">
                                     <div class="elementor-widget-container">
-                                      <p class="elementor-heading-title elementor-size-default"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">139 $</font></font></p>
+                                      <p class="elementor-heading-title elementor-size-default"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">129.99 $</font></font></p>
                                     </div>
                                   </div>
                                   <div class="elementor-element elementor-element-7534642 elementor-widget elementor-widget-heading" data-id="7534642" data-element_type="widget" data-widget_type="heading.default">
                                     <div class="elementor-widget-container">
-                                      <h2 class="elementor-heading-title elementor-size-default"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Tout ce que vous obtenez avec Premium, plus&nbsp;:</font></font><br>
+                                      <h2 class="elementor-heading-title elementor-size-default"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Everything You Get With Premium, Plus:&nbsp;:</font></font><br>
                                       <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">.</font></font></h2>
                                     </div>
                                   </div>
@@ -654,11 +636,11 @@
                                     <div class="elementor-widget-container">
                                       <ul class="elementor-icon-list-items">
                                         <li class="elementor-icon-list-item"><span class="elementor-icon-list-icon"><svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
-                                        <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">+ 20 000 chaînes de télévision en direct</font></font></span></li>
+                                        <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">+ 20K Live TV Channel</font></font></span></li>
                                         <li class="elementor-icon-list-item"><span class="elementor-icon-list-icon"><svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
-                                        <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">+ 120 000 films et séries</font></font></span></li>
+                                        <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">+ 120K Movies & Series</font></font></span></li>
                                         <li class="elementor-icon-list-item"><span class="elementor-icon-list-icon"><svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
-                                        <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Films et séries mis à jour</font></font></span></li>
+                                        <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Updated Movies & Series</font></font></span></li>
                                         <li class="elementor-icon-list-item"><span class="elementor-icon-list-icon"><svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
                                         <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">SD / HD / FULL HD / 4K</font></font></span></li>
                                         <li class="elementor-icon-list-item"><span class="elementor-icon-list-icon"><svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
@@ -672,7 +654,7 @@
                                     <div class="elementor-element elementor-element-53debd6 elementor-align-justify elementor-widget elementor-widget-button" data-id="53debd6" data-element_type="widget" data-widget_type="button.default">
                                       <div class="elementor-widget-container">
                                         <div class="elementor-button-wrapper">
-                                          <a class="elementor-button elementor-button-link elementor-size-sm" href="https://wa.link/3xourq" target="_blank" rel="noopener"><span class="elementor-button-content-wrapper"><span class="elementor-button-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Sélectionner</font></font></span></span></a>
+                                          <a class="elementor-button elementor-button-link elementor-size-sm" href="https://wa.link/3xourq" target="_blank" rel="noopener"><span class="elementor-button-content-wrapper"><span class="elementor-button-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Select</font></font></span></span></a>
                                         </div>
                                       </div>
                                     </div>
@@ -687,24 +669,23 @@
                                 <div class="elementor-element elementor-element-f5a7712 elementor-widget elementor-widget-button" data-id="f5a7712" data-element_type="widget" data-widget_type="button.default">
                                   <div class="elementor-widget-container">
                                     <div class="elementor-button-wrapper">
-                                      <a class="elementor-button elementor-button-link elementor-size-sm" href="#"><span class="elementor-button-content-wrapper"><span class="elementor-button-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Le plus populaire</font></font></span></span></a>
                                     </div>
                                   </div>
                                 </div>
                                 <div class="elementor-element elementor-element-b7a4d78 e-con-full e-flex e-con e-child" data-id="b7a4d78" data-element_type="container">
                                   <div class="elementor-element elementor-element-9152afa elementor-widget elementor-widget-heading" data-id="9152afa" data-element_type="widget" data-widget_type="heading.default">
                                     <div class="elementor-widget-container">
-                                      <p class="elementor-heading-title elementor-size-default"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1 mois</font></font></p>
+                                      <p class="elementor-heading-title elementor-size-default"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1 MONTHS</font></font></p>
                                     </div>
                                   </div>
                                   <div class="elementor-element elementor-element-c8b5de8 elementor-widget elementor-widget-heading" data-id="c8b5de8" data-element_type="widget" data-widget_type="heading.default">
                                     <div class="elementor-widget-container">
-                                      <p class="elementor-heading-title elementor-size-default"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">49 $</font></font></p>
+                                      <p class="elementor-heading-title elementor-size-default"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">32.99 $</font></font></p>
                                     </div>
                                   </div>
                                   <div class="elementor-element elementor-element-51f388e elementor-widget elementor-widget-heading" data-id="51f388e" data-element_type="widget" data-widget_type="heading.default">
                                     <div class="elementor-widget-container">
-                                      <h2 class="elementor-heading-title elementor-size-default"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Tout ce que vous obtenez avec Premium, plus&nbsp;:</font></font><br>
+                                      <h2 class="elementor-heading-title elementor-size-default"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Everything You Get With Premium, Plus:&nbsp;:</font></font><br>
                                       <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">.</font></font></h2>
                                     </div>
                                   </div>
@@ -712,11 +693,11 @@
                                     <div class="elementor-widget-container">
                                       <ul class="elementor-icon-list-items">
                                         <li class="elementor-icon-list-item"><span class="elementor-icon-list-icon"><svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
-                                        <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">+ 20 000 chaînes de télévision en direct</font></font></span></li>
+                                        <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">+ 20K Live TV Channel</font></font></span></li>
                                         <li class="elementor-icon-list-item"><span class="elementor-icon-list-icon"><svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
-                                        <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">+ 120 000 films et séries</font></font></span></li>
+                                        <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">+ 120K Movies & Series</font></font></span></li>
                                         <li class="elementor-icon-list-item"><span class="elementor-icon-list-icon"><svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
-                                        <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Films et séries mis à jour</font></font></span></li>
+                                        <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Updated Movies & Series</font></font></span></li>
                                         <li class="elementor-icon-list-item"><span class="elementor-icon-list-icon"><svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
                                         <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">SD / HD / FULL HD / 4K</font></font></span></li>
                                         <li class="elementor-icon-list-item"><span class="elementor-icon-list-icon"><svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
@@ -730,7 +711,7 @@
                                     <div class="elementor-element elementor-element-494cfd4 elementor-align-justify elementor-widget elementor-widget-button" data-id="494cfd4" data-element_type="widget" data-widget_type="button.default">
                                       <div class="elementor-widget-container">
                                         <div class="elementor-button-wrapper">
-                                          <a class="elementor-button elementor-button-link elementor-size-sm" href="https://api.whatsapp.com/send?phone=212773392854" target="_blank" rel="noopener"><span class="elementor-button-content-wrapper"><span class="elementor-button-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Sélectionner</font></font></span></span></a>
+                                          <a class="elementor-button elementor-button-link elementor-size-sm" href="https://api.whatsapp.com/send?phone=212773392854" target="_blank" rel="noopener"><span class="elementor-button-content-wrapper"><span class="elementor-button-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Select</font></font></span></span></a>
                                         </div>
                                       </div>
                                     </div>
@@ -741,24 +722,23 @@
                                 <div class="elementor-element elementor-element-8bab902 elementor-widget elementor-widget-button" data-id="8bab902" data-element_type="widget" data-widget_type="button.default">
                                   <div class="elementor-widget-container">
                                     <div class="elementor-button-wrapper">
-                                      <a class="elementor-button elementor-button-link elementor-size-sm" href="#"><span class="elementor-button-content-wrapper"><span class="elementor-button-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Le plus populaire</font></font></span></span></a>
                                     </div>
                                   </div>
                                 </div>
                                 <div class="elementor-element elementor-element-c45bd53 e-con-full e-flex e-con e-child" data-id="c45bd53" data-element_type="container">
                                   <div class="elementor-element elementor-element-9af6e5a elementor-widget elementor-widget-heading" data-id="9af6e5a" data-element_type="widget" data-widget_type="heading.default">
                                     <div class="elementor-widget-container">
-                                      <p class="elementor-heading-title elementor-size-default"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">3 mois</font></font></p>
+                                      <p class="elementor-heading-title elementor-size-default"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">3 MONTHS</font></font></p>
                                     </div>
                                   </div>
                                   <div class="elementor-element elementor-element-7c485dc elementor-widget elementor-widget-heading" data-id="7c485dc" data-element_type="widget" data-widget_type="heading.default">
                                     <div class="elementor-widget-container">
-                                      <p class="elementor-heading-title elementor-size-default"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">89 $</font></font></p>
+                                      <p class="elementor-heading-title elementor-size-default"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">54.99 $</font></font></p>
                                     </div>
                                   </div>
                                   <div class="elementor-element elementor-element-68255c6 elementor-widget elementor-widget-heading" data-id="68255c6" data-element_type="widget" data-widget_type="heading.default">
                                     <div class="elementor-widget-container">
-                                      <h2 class="elementor-heading-title elementor-size-default"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Tout ce que vous obtenez avec Premium, plus&nbsp;:</font></font><br>
+                                      <h2 class="elementor-heading-title elementor-size-default"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Everything You Get With Premium, Plus:&nbsp;:</font></font><br>
                                       <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">.</font></font></h2>
                                     </div>
                                   </div>
@@ -766,11 +746,11 @@
                                     <div class="elementor-widget-container">
                                       <ul class="elementor-icon-list-items">
                                         <li class="elementor-icon-list-item"><span class="elementor-icon-list-icon"><svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
-                                        <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">+ 20 000 chaînes de télévision en direct</font></font></span></li>
+                                        <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">+ 20K Live TV Channel</font></font></span></li>
                                         <li class="elementor-icon-list-item"><span class="elementor-icon-list-icon"><svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
-                                        <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">+ 120 000 films et séries</font></font></span></li>
+                                        <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">+ 120K Movies & Series</font></font></span></li>
                                         <li class="elementor-icon-list-item"><span class="elementor-icon-list-icon"><svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
-                                        <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Films et séries mis à jour</font></font></span></li>
+                                        <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Updated Movies & Series</font></font></span></li>
                                         <li class="elementor-icon-list-item"><span class="elementor-icon-list-icon"><svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
                                         <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">SD / HD / FULL HD / 4K</font></font></span></li>
                                         <li class="elementor-icon-list-item"><span class="elementor-icon-list-icon"><svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
@@ -784,7 +764,7 @@
                                     <div class="elementor-element elementor-element-2955b24 elementor-align-justify elementor-widget elementor-widget-button" data-id="2955b24" data-element_type="widget" data-widget_type="button.default">
                                       <div class="elementor-widget-container">
                                         <div class="elementor-button-wrapper">
-                                          <a class="elementor-button elementor-button-link elementor-size-sm" href="https://api.whatsapp.com/send?phone=212773392854" target="_blank" rel="noopener"><span class="elementor-button-content-wrapper"><span class="elementor-button-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Sélectionner</font></font></span></span></a>
+                                          <a class="elementor-button elementor-button-link elementor-size-sm" href="https://api.whatsapp.com/send?phone=212773392854" target="_blank" rel="noopener"><span class="elementor-button-content-wrapper"><span class="elementor-button-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Select</font></font></span></span></a>
                                         </div>
                                       </div>
                                     </div>
@@ -795,24 +775,23 @@
                                 <div class="elementor-element elementor-element-794ff3c elementor-widget elementor-widget-button" data-id="794ff3c" data-element_type="widget" data-widget_type="button.default">
                                   <div class="elementor-widget-container">
                                     <div class="elementor-button-wrapper">
-                                      <a class="elementor-button elementor-button-link elementor-size-sm" href="#"><span class="elementor-button-content-wrapper"><span class="elementor-button-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Le plus populaire</font></font></span></span></a>
                                     </div>
                                   </div>
                                 </div>
                                 <div class="elementor-element elementor-element-56c0933 e-con-full e-flex e-con e-child" data-id="56c0933" data-element_type="container">
                                   <div class="elementor-element elementor-element-8cc4a74 elementor-widget elementor-widget-heading" data-id="8cc4a74" data-element_type="widget" data-widget_type="heading.default">
                                     <div class="elementor-widget-container">
-                                      <p class="elementor-heading-title elementor-size-default"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">6 mois</font></font></p>
+                                      <p class="elementor-heading-title elementor-size-default"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">6 MONTHS</font></font></p>
                                     </div>
                                   </div>
                                   <div class="elementor-element elementor-element-439560c elementor-widget elementor-widget-heading" data-id="439560c" data-element_type="widget" data-widget_type="heading.default">
                                     <div class="elementor-widget-container">
-                                      <p class="elementor-heading-title elementor-size-default"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">129 $</font></font></p>
+                                      <p class="elementor-heading-title elementor-size-default"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">99.99 $</font></font></p>
                                     </div>
                                   </div>
                                   <div class="elementor-element elementor-element-1b22458 elementor-widget elementor-widget-heading" data-id="1b22458" data-element_type="widget" data-widget_type="heading.default">
                                     <div class="elementor-widget-container">
-                                      <h2 class="elementor-heading-title elementor-size-default"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Tout ce que vous obtenez avec Premium, plus&nbsp;:</font></font><br>
+                                      <h2 class="elementor-heading-title elementor-size-default"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Everything You Get With Premium, Plus:&nbsp;:</font></font><br>
                                       <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">.</font></font></h2>
                                     </div>
                                   </div>
@@ -820,11 +799,11 @@
                                     <div class="elementor-widget-container">
                                       <ul class="elementor-icon-list-items">
                                         <li class="elementor-icon-list-item"><span class="elementor-icon-list-icon"><svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
-                                        <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">+ 20 000 chaînes de télévision en direct</font></font></span></li>
+                                        <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">+ 20K Live TV Channel</font></font></span></li>
                                         <li class="elementor-icon-list-item"><span class="elementor-icon-list-icon"><svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
-                                        <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">+ 120 000 films et séries</font></font></span></li>
+                                        <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">+ 120K Movies & Series</font></font></span></li>
                                         <li class="elementor-icon-list-item"><span class="elementor-icon-list-icon"><svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
-                                        <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Films et séries mis à jour</font></font></span></li>
+                                        <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Updated Movies & Series</font></font></span></li>
                                         <li class="elementor-icon-list-item"><span class="elementor-icon-list-icon"><svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
                                         <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">SD / HD / FULL HD / 4K</font></font></span></li>
                                         <li class="elementor-icon-list-item"><span class="elementor-icon-list-icon"><svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
@@ -838,7 +817,7 @@
                                     <div class="elementor-element elementor-element-7bb5df5 elementor-align-justify elementor-widget elementor-widget-button" data-id="7bb5df5" data-element_type="widget" data-widget_type="button.default">
                                       <div class="elementor-widget-container">
                                         <div class="elementor-button-wrapper">
-                                          <a class="elementor-button elementor-button-link elementor-size-sm" href="https://api.whatsapp.com/send?phone=212773392854" target="_blank" rel="noopener"><span class="elementor-button-content-wrapper"><span class="elementor-button-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Sélectionner</font></font></span></span></a>
+                                          <a class="elementor-button elementor-button-link elementor-size-sm" href="https://api.whatsapp.com/send?phone=212773392854" target="_blank" rel="noopener"><span class="elementor-button-content-wrapper"><span class="elementor-button-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Select</font></font></span></span></a>
                                         </div>
                                       </div>
                                     </div>
@@ -856,17 +835,17 @@
                                 <div class="elementor-element elementor-element-6b9f2f9 e-con-full e-flex e-con e-child" data-id="6b9f2f9" data-element_type="container">
                                   <div class="elementor-element elementor-element-2cd7ff6 elementor-widget elementor-widget-heading" data-id="2cd7ff6" data-element_type="widget" data-widget_type="heading.default">
                                     <div class="elementor-widget-container">
-                                      <p class="elementor-heading-title elementor-size-default"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">12 mois</font></font></p>
+                                      <p class="elementor-heading-title elementor-size-default"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">12 MONTHS</font></font></p>
                                     </div>
                                   </div>
                                   <div class="elementor-element elementor-element-c74bf4b elementor-widget elementor-widget-heading" data-id="c74bf4b" data-element_type="widget" data-widget_type="heading.default">
                                     <div class="elementor-widget-container">
-                                      <p class="elementor-heading-title elementor-size-default"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">169 $</font></font></p>
+                                      <p class="elementor-heading-title elementor-size-default"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">149.99 $</font></font></p>
                                     </div>
                                   </div>
                                   <div class="elementor-element elementor-element-5be30a3 elementor-widget elementor-widget-heading" data-id="5be30a3" data-element_type="widget" data-widget_type="heading.default">
                                     <div class="elementor-widget-container">
-                                      <h2 class="elementor-heading-title elementor-size-default"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Tout ce que vous obtenez avec Premium, plus&nbsp;:</font></font><br>
+                                      <h2 class="elementor-heading-title elementor-size-default"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Everything You Get With Premium, Plus:&nbsp;:</font></font><br>
                                       <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">.</font></font></h2>
                                     </div>
                                   </div>
@@ -874,11 +853,11 @@
                                     <div class="elementor-widget-container">
                                       <ul class="elementor-icon-list-items">
                                         <li class="elementor-icon-list-item"><span class="elementor-icon-list-icon"><svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
-                                        <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">+ 20 000 chaînes de télévision en direct</font></font></span></li>
+                                        <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">+ 20K Live TV Channel</font></font></span></li>
                                         <li class="elementor-icon-list-item"><span class="elementor-icon-list-icon"><svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
-                                        <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">+ 120 000 films et séries</font></font></span></li>
+                                        <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">+ 120K Movies & Series</font></font></span></li>
                                         <li class="elementor-icon-list-item"><span class="elementor-icon-list-icon"><svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
-                                        <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Films et séries mis à jour</font></font></span></li>
+                                        <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Updated Movies & Series</font></font></span></li>
                                         <li class="elementor-icon-list-item"><span class="elementor-icon-list-icon"><svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
                                         <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">SD / HD / FULL HD / 4K</font></font></span></li>
                                         <li class="elementor-icon-list-item"><span class="elementor-icon-list-icon"><svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
@@ -892,7 +871,7 @@
                                     <div class="elementor-element elementor-element-a121a32 elementor-align-justify elementor-widget elementor-widget-button" data-id="a121a32" data-element_type="widget" data-widget_type="button.default">
                                       <div class="elementor-widget-container">
                                         <div class="elementor-button-wrapper">
-                                          <a class="elementor-button elementor-button-link elementor-size-sm" href="https://wa.link/9zvmc1" target="_blank" rel="noopener"><span class="elementor-button-content-wrapper"><span class="elementor-button-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Sélectionner</font></font></span></span></a>
+                                          <a class="elementor-button elementor-button-link elementor-size-sm" href="https://wa.link/9zvmc1" target="_blank" rel="noopener"><span class="elementor-button-content-wrapper"><span class="elementor-button-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Select</font></font></span></span></a>
                                         </div>
                                       </div>
                                     </div>
@@ -907,24 +886,23 @@
                                 <div class="elementor-element elementor-element-f7e0359 elementor-widget elementor-widget-button" data-id="f7e0359" data-element_type="widget" data-widget_type="button.default">
                                   <div class="elementor-widget-container">
                                     <div class="elementor-button-wrapper">
-                                      <a class="elementor-button elementor-button-link elementor-size-sm" href="#"><span class="elementor-button-content-wrapper"><span class="elementor-button-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Le plus populaire</font></font></span></span></a>
                                     </div>
                                   </div>
                                 </div>
                                 <div class="elementor-element elementor-element-41208e8 e-con-full e-flex e-con e-child" data-id="41208e8" data-element_type="container">
                                   <div class="elementor-element elementor-element-10663d4 elementor-widget elementor-widget-heading" data-id="10663d4" data-element_type="widget" data-widget_type="heading.default">
                                     <div class="elementor-widget-container">
-                                      <p class="elementor-heading-title elementor-size-default"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1 mois</font></font></p>
+                                      <p class="elementor-heading-title elementor-size-default"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1 MONTHS</font></font></p>
                                     </div>
                                   </div>
                                   <div class="elementor-element elementor-element-88643b1 elementor-widget elementor-widget-heading" data-id="88643b1" data-element_type="widget" data-widget_type="heading.default">
                                     <div class="elementor-widget-container">
-                                      <p class="elementor-heading-title elementor-size-default"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">59 $</font></font></p>
+                                      <p class="elementor-heading-title elementor-size-default"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">39.99 $</font></font></p>
                                     </div>
                                   </div>
                                   <div class="elementor-element elementor-element-b45bfbc elementor-widget elementor-widget-heading" data-id="b45bfbc" data-element_type="widget" data-widget_type="heading.default">
                                     <div class="elementor-widget-container">
-                                      <h2 class="elementor-heading-title elementor-size-default"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Tout ce que vous obtenez avec Premium, plus&nbsp;:</font></font><br>
+                                      <h2 class="elementor-heading-title elementor-size-default"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Everything You Get With Premium, Plus:&nbsp;:</font></font><br>
                                       <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">.</font></font></h2>
                                     </div>
                                   </div>
@@ -932,11 +910,11 @@
                                     <div class="elementor-widget-container">
                                       <ul class="elementor-icon-list-items">
                                         <li class="elementor-icon-list-item"><span class="elementor-icon-list-icon"><svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
-                                        <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">+ 20 000 chaînes de télévision en direct</font></font></span></li>
+                                        <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">+ 20K Live TV Channel</font></font></span></li>
                                         <li class="elementor-icon-list-item"><span class="elementor-icon-list-icon"><svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
-                                        <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">+ 120 000 films et séries</font></font></span></li>
+                                        <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">+ 120K Movies & Series</font></font></span></li>
                                         <li class="elementor-icon-list-item"><span class="elementor-icon-list-icon"><svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
-                                        <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Films et séries mis à jour</font></font></span></li>
+                                        <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Updated Movies & Series</font></font></span></li>
                                         <li class="elementor-icon-list-item"><span class="elementor-icon-list-icon"><svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
                                         <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">SD / HD / FULL HD / 4K</font></font></span></li>
                                         <li class="elementor-icon-list-item"><span class="elementor-icon-list-icon"><svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
@@ -950,7 +928,7 @@
                                     <div class="elementor-element elementor-element-b5a4422 elementor-align-justify elementor-widget elementor-widget-button" data-id="b5a4422" data-element_type="widget" data-widget_type="button.default">
                                       <div class="elementor-widget-container">
                                         <div class="elementor-button-wrapper">
-                                          <a class="elementor-button elementor-button-link elementor-size-sm" href="https://api.whatsapp.com/send?phone=212773392854" target="_blank" rel="noopener"><span class="elementor-button-content-wrapper"><span class="elementor-button-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Sélectionner</font></font></span></span></a>
+                                          <a class="elementor-button elementor-button-link elementor-size-sm" href="https://api.whatsapp.com/send?phone=212773392854" target="_blank" rel="noopener"><span class="elementor-button-content-wrapper"><span class="elementor-button-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Select</font></font></span></span></a>
                                         </div>
                                       </div>
                                     </div>
@@ -961,24 +939,23 @@
                                 <div class="elementor-element elementor-element-ff0ed33 elementor-widget elementor-widget-button" data-id="ff0ed33" data-element_type="widget" data-widget_type="button.default">
                                   <div class="elementor-widget-container">
                                     <div class="elementor-button-wrapper">
-                                      <a class="elementor-button elementor-button-link elementor-size-sm" href="#"><span class="elementor-button-content-wrapper"><span class="elementor-button-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Le plus populaire</font></font></span></span></a>
                                     </div>
                                   </div>
                                 </div>
                                 <div class="elementor-element elementor-element-e97f778 e-con-full e-flex e-con e-child" data-id="e97f778" data-element_type="container">
                                   <div class="elementor-element elementor-element-a9613f7 elementor-widget elementor-widget-heading" data-id="a9613f7" data-element_type="widget" data-widget_type="heading.default">
                                     <div class="elementor-widget-container">
-                                      <p class="elementor-heading-title elementor-size-default"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">3 mois</font></font></p>
+                                      <p class="elementor-heading-title elementor-size-default"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">3 MONTHS</font></font></p>
                                     </div>
                                   </div>
                                   <div class="elementor-element elementor-element-caaa406 elementor-widget elementor-widget-heading" data-id="caaa406" data-element_type="widget" data-widget_type="heading.default">
                                     <div class="elementor-widget-container">
-                                      <p class="elementor-heading-title elementor-size-default"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">89 $</font></font></p>
+                                      <p class="elementor-heading-title elementor-size-default"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">59.99 $</font></font></p>
                                     </div>
                                   </div>
                                   <div class="elementor-element elementor-element-19e994b elementor-widget elementor-widget-heading" data-id="19e994b" data-element_type="widget" data-widget_type="heading.default">
                                     <div class="elementor-widget-container">
-                                      <h2 class="elementor-heading-title elementor-size-default"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Tout ce que vous obtenez avec Premium, plus&nbsp;:</font></font><br>
+                                      <h2 class="elementor-heading-title elementor-size-default"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Everything You Get With Premium, Plus:&nbsp;:</font></font><br>
                                       <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">.</font></font></h2>
                                     </div>
                                   </div>
@@ -986,11 +963,11 @@
                                     <div class="elementor-widget-container">
                                       <ul class="elementor-icon-list-items">
                                         <li class="elementor-icon-list-item"><span class="elementor-icon-list-icon"><svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
-                                        <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">+ 20 000 chaînes de télévision en direct</font></font></span></li>
+                                        <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">+ 20K Live TV Channel</font></font></span></li>
                                         <li class="elementor-icon-list-item"><span class="elementor-icon-list-icon"><svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
-                                        <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">+ 120 000 films et séries</font></font></span></li>
+                                        <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">+ 120K Movies & Series</font></font></span></li>
                                         <li class="elementor-icon-list-item"><span class="elementor-icon-list-icon"><svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
-                                        <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Films et séries mis à jour</font></font></span></li>
+                                        <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Updated Movies & Series</font></font></span></li>
                                         <li class="elementor-icon-list-item"><span class="elementor-icon-list-icon"><svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
                                         <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">SD / HD / FULL HD / 4K</font></font></span></li>
                                         <li class="elementor-icon-list-item"><span class="elementor-icon-list-icon"><svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
@@ -1004,7 +981,7 @@
                                     <div class="elementor-element elementor-element-f6ca3f2 elementor-align-justify elementor-widget elementor-widget-button" data-id="f6ca3f2" data-element_type="widget" data-widget_type="button.default">
                                       <div class="elementor-widget-container">
                                         <div class="elementor-button-wrapper">
-                                          <a class="elementor-button elementor-button-link elementor-size-sm" href="https://api.whatsapp.com/send?phone=212773392854" target="_blank" rel="noopener"><span class="elementor-button-content-wrapper"><span class="elementor-button-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Sélectionner</font></font></span></span></a>
+                                          <a class="elementor-button elementor-button-link elementor-size-sm" href="https://api.whatsapp.com/send?phone=212773392854" target="_blank" rel="noopener"><span class="elementor-button-content-wrapper"><span class="elementor-button-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Select</font></font></span></span></a>
                                         </div>
                                       </div>
                                     </div>
@@ -1015,24 +992,23 @@
                                 <div class="elementor-element elementor-element-09305c9 elementor-widget elementor-widget-button" data-id="09305c9" data-element_type="widget" data-widget_type="button.default">
                                   <div class="elementor-widget-container">
                                     <div class="elementor-button-wrapper">
-                                      <a class="elementor-button elementor-button-link elementor-size-sm" href="#"><span class="elementor-button-content-wrapper"><span class="elementor-button-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Le plus populaire</font></font></span></span></a>
                                     </div>
                                   </div>
                                 </div>
                                 <div class="elementor-element elementor-element-655375b e-con-full e-flex e-con e-child" data-id="655375b" data-element_type="container">
                                   <div class="elementor-element elementor-element-ec59c70 elementor-widget elementor-widget-heading" data-id="ec59c70" data-element_type="widget" data-widget_type="heading.default">
                                     <div class="elementor-widget-container">
-                                      <p class="elementor-heading-title elementor-size-default"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">6 mois</font></font></p>
+                                      <p class="elementor-heading-title elementor-size-default"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">6 MONTHS</font></font></p>
                                     </div>
                                   </div>
                                   <div class="elementor-element elementor-element-8f48655 elementor-widget elementor-widget-heading" data-id="8f48655" data-element_type="widget" data-widget_type="heading.default">
                                     <div class="elementor-widget-container">
-                                      <p class="elementor-heading-title elementor-size-default"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">159</font></font></p>
+                                      <p class="elementor-heading-title elementor-size-default"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">114.99</font></font></p>
                                     </div>
                                   </div>
                                   <div class="elementor-element elementor-element-48ea878 elementor-widget elementor-widget-heading" data-id="48ea878" data-element_type="widget" data-widget_type="heading.default">
                                     <div class="elementor-widget-container">
-                                      <h2 class="elementor-heading-title elementor-size-default"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Tout ce que vous obtenez avec Premium, plus&nbsp;:</font></font><br>
+                                      <h2 class="elementor-heading-title elementor-size-default"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Everything You Get With Premium, Plus:&nbsp;:</font></font><br>
                                       <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">.</font></font></h2>
                                     </div>
                                   </div>
@@ -1040,11 +1016,11 @@
                                     <div class="elementor-widget-container">
                                       <ul class="elementor-icon-list-items">
                                         <li class="elementor-icon-list-item"><span class="elementor-icon-list-icon"><svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
-                                        <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">+ 20 000 chaînes de télévision en direct</font></font></span></li>
+                                        <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">+ 20K Live TV Channel</font></font></span></li>
                                         <li class="elementor-icon-list-item"><span class="elementor-icon-list-icon"><svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
-                                        <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">+ 120 000 films et séries</font></font></span></li>
+                                        <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">+ 120K Movies & Series</font></font></span></li>
                                         <li class="elementor-icon-list-item"><span class="elementor-icon-list-icon"><svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
-                                        <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Films et séries mis à jour</font></font></span></li>
+                                        <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Updated Movies & Series</font></font></span></li>
                                         <li class="elementor-icon-list-item"><span class="elementor-icon-list-icon"><svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
                                         <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">SD / HD / FULL HD / 4K</font></font></span></li>
                                         <li class="elementor-icon-list-item"><span class="elementor-icon-list-icon"><svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
@@ -1058,7 +1034,7 @@
                                     <div class="elementor-element elementor-element-76c00f0 elementor-align-justify elementor-widget elementor-widget-button" data-id="76c00f0" data-element_type="widget" data-widget_type="button.default">
                                       <div class="elementor-widget-container">
                                         <div class="elementor-button-wrapper">
-                                          <a class="elementor-button elementor-button-link elementor-size-sm" href="https://api.whatsapp.com/send?phone=212773392854" target="_blank" rel="noopener"><span class="elementor-button-content-wrapper"><span class="elementor-button-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Sélectionner</font></font></span></span></a>
+                                          <a class="elementor-button elementor-button-link elementor-size-sm" href="https://api.whatsapp.com/send?phone=212773392854" target="_blank" rel="noopener"><span class="elementor-button-content-wrapper"><span class="elementor-button-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Select</font></font></span></span></a>
                                         </div>
                                       </div>
                                     </div>
@@ -1076,17 +1052,17 @@
                                 <div class="elementor-element elementor-element-4928730 e-con-full e-flex e-con e-child" data-id="4928730" data-element_type="container">
                                   <div class="elementor-element elementor-element-dcac7ae elementor-widget elementor-widget-heading" data-id="dcac7ae" data-element_type="widget" data-widget_type="heading.default">
                                     <div class="elementor-widget-container">
-                                      <p class="elementor-heading-title elementor-size-default"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">12 mois</font></font></p>
+                                      <p class="elementor-heading-title elementor-size-default"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">12 MONTHS</font></font></p>
                                     </div>
                                   </div>
                                   <div class="elementor-element elementor-element-0d602e4 elementor-widget elementor-widget-heading" data-id="0d602e4" data-element_type="widget" data-widget_type="heading.default">
                                     <div class="elementor-widget-container">
-                                      <p class="elementor-heading-title elementor-size-default"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">199 $</font></font></p>
+                                      <p class="elementor-heading-title elementor-size-default"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">199.99 $</font></font></p>
                                     </div>
                                   </div>
                                   <div class="elementor-element elementor-element-c5c99aa elementor-widget elementor-widget-heading" data-id="c5c99aa" data-element_type="widget" data-widget_type="heading.default">
                                     <div class="elementor-widget-container">
-                                      <h2 class="elementor-heading-title elementor-size-default"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Tout ce que vous obtenez avec Premium, plus&nbsp;:</font></font><br>
+                                      <h2 class="elementor-heading-title elementor-size-default"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Everything You Get With Premium, Plus:&nbsp;:</font></font><br>
                                       <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">.</font></font></h2>
                                     </div>
                                   </div>
@@ -1094,11 +1070,11 @@
                                     <div class="elementor-widget-container">
                                       <ul class="elementor-icon-list-items">
                                         <li class="elementor-icon-list-item"><span class="elementor-icon-list-icon"><svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
-                                        <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">+ 20 000 chaînes de télévision en direct</font></font></span></li>
+                                        <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">+ 20K Live TV Channel</font></font></span></li>
                                         <li class="elementor-icon-list-item"><span class="elementor-icon-list-icon"><svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
-                                        <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">+ 120 000 films et séries</font></font></span></li>
+                                        <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">+ 120K Movies & Series</font></font></span></li>
                                         <li class="elementor-icon-list-item"><span class="elementor-icon-list-icon"><svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
-                                        <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Films et séries mis à jour</font></font></span></li>
+                                        <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Updated Movies & Series</font></font></span></li>
                                         <li class="elementor-icon-list-item"><span class="elementor-icon-list-icon"><svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
                                         <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></span> <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">SD / HD / FULL HD / 4K</font></font></span></li>
                                         <li class="elementor-icon-list-item"><span class="elementor-icon-list-icon"><svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
@@ -1112,7 +1088,7 @@
                                     <div class="elementor-element elementor-element-a8bec9f elementor-align-justify elementor-widget elementor-widget-button" data-id="a8bec9f" data-element_type="widget" data-widget_type="button.default">
                                       <div class="elementor-widget-container">
                                         <div class="elementor-button-wrapper">
-                                          <a class="elementor-button elementor-button-link elementor-size-sm" href="https://wa.link/assvmc" target="_blank" rel="noopener"><span class="elementor-button-content-wrapper"><span class="elementor-button-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Sélectionner</font></font></span></span></a>
+                                          <a class="elementor-button elementor-button-link elementor-size-sm" href="https://wa.link/assvmc" target="_blank" rel="noopener"><span class="elementor-button-content-wrapper"><span class="elementor-button-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Select</font></font></span></span></a>
                                         </div>
                                       </div>
                                     </div>

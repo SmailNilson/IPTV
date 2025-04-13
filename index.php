@@ -18,13 +18,13 @@
                               <div class="swiper-slide-bg" role="img"></div><a class="swiper-slide-inner" href="plans/index.php">
                               <div class="swiper-slide-contents">
                                 <div class="elementor-slide-heading">
-                                  Best IPTV Service Provider Subscription
+                                 Best IPTV Service for Streaming
                                 </div>
                                 <div class="elementor-slide-description">
-                                  Plans start at $11.99/month. Cancel anytime.
+                                  Unlock Endless Entertainment – Thousands of Global Channels, Movies & Series Await!
                                 </div>
                                 <div class="elementor-button elementor-slide-button elementor-size-md">
-                                  Pick a Plan
+                                  Get Started
                                 </div>
                               </div></a>
                             </div>
@@ -32,13 +32,13 @@
                               <div class="swiper-slide-bg" role="img"></div><a class="swiper-slide-inner" href="plans/index.php">
                               <div class="swiper-slide-contents">
                                 <div class="elementor-slide-heading">
-                                  Best IPTV Service Provider Subscription
+                                 Best IPTV Service for Streaming
                                 </div>
                                 <div class="elementor-slide-description">
-                                  Plans start at $11.99/month. Cancel anytime.
+                                  Unlock Endless Entertainment – Thousands of Global Channels, Movies & Series Await!
                                 </div>
                                 <div class="elementor-button elementor-slide-button elementor-size-md">
-                                  Pick a Plan
+                                  Get Started
                                 </div>
                               </div></a>
                             </div>
@@ -46,13 +46,13 @@
                               <div class="swiper-slide-bg" role="img"></div><a class="swiper-slide-inner" href="plans/index.php">
                               <div class="swiper-slide-contents">
                                 <div class="elementor-slide-heading">
-                                  Best IPTV Service Provider Subscription
+                                 Best IPTV Service for Streaming
                                 </div>
                                 <div class="elementor-slide-description">
-                                  Plans start at $11.99/month. Cancel anytime.
+                                  Unlock Endless Entertainment – Thousands of Global Channels, Movies & Series Await!
                                 </div>
                                 <div class="elementor-button elementor-slide-button elementor-size-md">
-                                  Pick a Plan
+                                  Get Started
                                 </div>
                               </div></a>
                             </div>
@@ -86,13 +86,13 @@
                               <div class="swiper-slide-bg" role="img"></div><a class="swiper-slide-inner" href="plans/index.php">
                               <div class="swiper-slide-contents">
                                 <div class="elementor-slide-heading">
-                                  Best IPTV Service Provider Subscription
+                                 Best IPTV Service for Streaming
                                 </div>
                                 <div class="elementor-slide-description">
-                                  Plans start at $11.99/month. Cancel anytime.
+                                  Unlock Endless Entertainment – Thousands of Global Channels, Movies & Series Await!
                                 </div>
                                 <div class="elementor-button elementor-slide-button elementor-size-md">
-                                  Pick a Plan
+                                  Get Started
                                 </div>
                               </div></a>
                             </div>
@@ -138,12 +138,12 @@
                   </div>
                   <div class="elementor-element elementor-element-bc22411 elementor-widget elementor-widget-heading" data-id="bc22411" data-element_type="widget" data-widget_type="heading.default">
                     <div class="elementor-widget-container">
-                      <h2 class="elementor-heading-title elementor-size-default">Stream Live TV from 29000+ Channels You Love</h2>
+                      <h2 class="elementor-heading-title elementor-size-default">Enjoy 4K IPTV at Half the Price – 50% Off All Plans!</h2>
                     </div>
                   </div>
                   <div class="elementor-element elementor-element-5217d8b elementor-widget elementor-widget-heading" data-id="5217d8b" data-element_type="widget" data-widget_type="heading.default">
                     <div class="elementor-widget-container">
-                      <h2 class="elementor-heading-title elementor-size-default">ON ANY DEVICE. ANYTIME. ANYWHERE.</h2>
+                      <h2 class="elementor-heading-title elementor-size-default">Sign up today for a convenient and unmatched experience.</h2>
                     </div>
                   </div>
                 </div>
@@ -558,9 +558,6 @@
                 <div class="elementor-element elementor-element-57f3ce3 e-con-full e-flex elementor-invisible e-con e-child" data-id="57f3ce3" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;fadeInUp&quot;,&quot;animation_delay&quot;:&quot;100&quot;}">
                   <div class="elementor-element elementor-element-27ce1e5 elementor-widget elementor-widget-button" data-id="27ce1e5" data-element_type="widget" data-widget_type="button.default">
                     <div class="elementor-widget-container">
-                      <div class="elementor-button-wrapper">
-                        <a class="elementor-button elementor-button-link elementor-size-sm" href="#"><span class="elementor-button-content-wrapper"><span class="elementor-button-text">Most Popular</span></span></a>
-                      </div>
                     </div>
                   </div>
                   <div class="elementor-element elementor-element-ac8df3b e-con-full e-flex e-con e-child" data-id="ac8df3b" data-element_type="container">
@@ -571,7 +568,7 @@
                     </div>
                     <div class="elementor-element elementor-element-757750a elementor-widget elementor-widget-heading" data-id="757750a" data-element_type="widget" data-widget_type="heading.default">
                       <div class="elementor-widget-container">
-                        <p class="elementor-heading-title elementor-size-default">$29.99</p>
+                        <p class="elementor-heading-title elementor-size-default">$24.99</p>
                       </div>
                     </div>
                     <div class="elementor-element elementor-element-dc26af7 elementor-widget elementor-widget-heading" data-id="dc26af7" data-element_type="widget" data-widget_type="heading.default">
@@ -612,9 +609,6 @@
                 <div class="elementor-element elementor-element-7cc0ab8 e-con-full e-flex elementor-invisible e-con e-child" data-id="7cc0ab8" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;fadeInUp&quot;,&quot;animation_delay&quot;:&quot;100&quot;}">
                   <div class="elementor-element elementor-element-57d49c7 elementor-widget elementor-widget-button" data-id="57d49c7" data-element_type="widget" data-widget_type="button.default">
                     <div class="elementor-widget-container">
-                      <div class="elementor-button-wrapper">
-                        <a class="elementor-button elementor-button-link elementor-size-sm" href="#"><span class="elementor-button-content-wrapper"><span class="elementor-button-text">Most Popular</span></span></a>
-                      </div>
                     </div>
                   </div>
                   <div class="elementor-element elementor-element-255ec01 e-con-full e-flex e-con e-child" data-id="255ec01" data-element_type="container">
@@ -679,7 +673,7 @@
                     </div>
                     <div class="elementor-element elementor-element-dc8ea50 elementor-widget elementor-widget-heading" data-id="dc8ea50" data-element_type="widget" data-widget_type="heading.default">
                       <div class="elementor-widget-container">
-                        <p class="elementor-heading-title elementor-size-default">$59.99</p>
+                        <p class="elementor-heading-title elementor-size-default">$49.99</p>
                       </div>
                     </div>
                     <div class="elementor-element elementor-element-648be31 elementor-widget elementor-widget-heading" data-id="648be31" data-element_type="widget" data-widget_type="heading.default">
@@ -725,12 +719,12 @@
                 <div class="e-con-inner">
                   <div class="elementor-element elementor-element-365b324 elementor-widget elementor-widget-heading" data-id="365b324" data-element_type="widget" data-widget_type="heading.default">
                     <div class="elementor-widget-container">
-                      <h2 class="elementor-heading-title elementor-size-default">Watch Rabbitaitv on Your Favorite Devices</h2>
+                      <h2 class="elementor-heading-title elementor-size-default">Multi-Device Streaming Made Easy</h2>
                     </div>
                   </div>
                   <div class="elementor-element elementor-element-4ed824e elementor-widget elementor-widget-heading" data-id="4ed824e" data-element_type="widget" data-widget_type="heading.default">
                     <div class="elementor-widget-container">
-                      <h2 class="elementor-heading-title elementor-size-default">Stream on 5 devices at once. Plus, create up to 6 profiles with kid-safety settings.</h2>
+                      <h2 class="elementor-heading-title elementor-size-default">Enjoy on 5 devices at once and set up 6 user profiles — perfect for families, with built-in parental controls.</h2>
                     </div>
                   </div>
                   <div class="elementor-element elementor-element-fcc61e6 elementor-widget__width-initial elementor-widget elementor-widget-image-carousel" data-id="fcc61e6" data-element_type="widget" data-settings="{&quot;slides_to_show&quot;:&quot;4&quot;,&quot;navigation&quot;:&quot;none&quot;,&quot;image_spacing_custom&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;slides_to_show_mobile&quot;:&quot;2&quot;,&quot;slides_to_scroll_mobile&quot;:&quot;1&quot;,&quot;speed&quot;:500,&quot;image_spacing_custom_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;image_spacing_custom_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="image-carousel.default">
@@ -930,7 +924,7 @@
                           <div class="elementor-icon-box-icon"></div>
                           <div class="elementor-icon-box-content">
                             <h3 class="elementor-icon-box-title"><span>Premium Channels</span></h3>
-                            <p class="elementor-icon-box-description">We offer all premium channels & PPV that other providers don't offer.</p>
+                            <p class="elementor-icon-box-description">Enjoy exclusive access to premium channels & pay-per-view content — a level of service that sets us apart from the competition.</p>
                           </div>
                         </div>
                       </div>
