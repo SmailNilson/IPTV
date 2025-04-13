@@ -456,7 +456,7 @@
           <div class="elementor-element elementor-element-89e5638 elementor-align-center elementor-widget elementor-widget-button" data-id="89e5638" data-element_type="widget" data-widget_type="button.default">
             <div class="elementor-widget-container">
               <div class="elementor-button-wrapper">
-                <a class="elementor-button elementor-button-link elementor-size-sm" href="../plans/index.php"><span class="elementor-button-content-wrapper"><span class="elementor-button-text">Get Started</span></span></a>
+                <a class="elementor-button elementor-button-link elementor-size-sm" href="../plans/index.php"><span class="elementor-button-content-wrapper"><span class="elementor-button-text">Order Now</span></span></a>
               </div>
             </div>
           </div>
